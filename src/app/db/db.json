@@ -1,0 +1,31 @@
+{
+   "users": [
+     {
+       "id": 1,
+       "username": "johndoe",
+       "email": "johndoe@example.com",
+       "password": "password123",
+       "age": 30,
+       "gender": "male",
+       "location": "New York City"
+     },
+     {
+       "id": 2,
+       "username": "janedoe",
+       "email": "janedoe@example.com",
+       "password": "password456",
+       "age": 25,
+       "gender": "female",
+       "location": "Los Angeles"
+     },
+     {
+       "id": 3,
+       "username": "bobsmith",
+       "email": "bobsmith@example.com",
+       "password": "password789",
+       "age": 40,
+       "gender": "male",
+       "location": "Chicago"
+     }
+   ]
+ }
